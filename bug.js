@@ -1,0 +1,1 @@
+This bug occurs when using the Expo `Camera` component with custom styling applied to the container. The image preview might not render correctly, appearing distorted or completely blank. This is particularly noticeable when using flexbox or other advanced layout techniques.
